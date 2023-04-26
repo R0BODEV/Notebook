@@ -1,0 +1,7 @@
+1. Notebook.py
+This file will contain the main logic of the app and will be responsible for handling the overall program flow. It will include functions to create, edit, delete, and save notes and manage the notebook data.
+
+2. NotebookClass.py
+This file will contain the class definitions for the app. It will include a Notebook class that stores data about the notes and a Note class to represent individual notes.
+
+3. NotebookGUI
